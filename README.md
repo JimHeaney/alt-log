@@ -5,6 +5,9 @@ The Alt-Log is a new low-cost, powerful altimeter I developed for high-powered r
 
 The complex board also has a set of LEDs that can be used to tell the onboard status, and the onboard memory allows me to have a configurable settings file on the SD card, to set dozens of different parameters for the best data collection.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/alt-log.html).
+
 ## Current Release
 Version 1.3
 
